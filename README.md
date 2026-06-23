@@ -77,8 +77,8 @@ A full financial analysis and interactive Excel dashboard built on 700 transacti
 
 | File | Description |
 |---|---|
-| `Financial_Performance_Analysis.xlsx` | Cleaned dataset, pivot tables, calculated fields, and interactive dashboard |
-| `Financial_Performance_Report.docx` | Full written report with embedded charts, data tables, and recommendations |
+| `Financial Performance Analysis.xlsx` | Cleaned dataset, pivot tables, calculated fields, and interactive dashboard |
+| `Financial Performance Report.docx` | Full written report with embedded charts, data tables, and recommendations |
 
 ---
 
